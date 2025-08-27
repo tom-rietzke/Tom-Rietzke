@@ -5,14 +5,8 @@
 </p>
 
 <p align="center">
-    I'm an computer science student and trainee learning new technologies one step at a time.
-</P>
-
-<p align="center">
 
 </p>
-
-
 
 <p align="center">
     <a href="https://github.com/Tom-Rietzke?tab=repositories&sort=stargazers">
